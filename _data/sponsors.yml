@@ -1,0 +1,12 @@
+- name: Association for Computing Machinery
+  url: https://www.acm.org
+  logo-url: img/sponsors/acm.gif
+- name: SIGPLAN
+  url: http://sigplan.org
+  logo-url: img/sponsors/sigplan.png
+- name: SIGMICRO
+  url: https://www.sigmicro.org
+  logo-url: img/sponsors/sigmicro.jpg
+- name: IEEE
+  url: https://www.ieee.org
+  logo-url: img/sponsors/ieee.png

@@ -44,7 +44,7 @@
           </a>
           <ul aria-labelledby="past-cgos-dropdown" class="dropdown-menu">
               <!-- <li><a href="http://conf.researchr.org/home/CC-2017">2017</a></li> -->
-              {% for conference in site.previous-conferences %}
+              {% for conference in site.data.previous-conferences %}
               <li><a href="{{ conference.url }}">{{ conference.year }} - {{ conference.location }} </a></li>
               {% endfor %}
           </ul>
