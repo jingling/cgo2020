@@ -1,0 +1,25 @@
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/css/lightslider.min.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.min.js" defer></script>
+<script src="{{ site.baseurl }}/js/lightsliderrun.js" defer></script>
+
+<div style="padding-bottom:0;" class="jumbotron">
+  <div class="container">
+    <ul id="lightSlider">
+      {% for image in page.banner-image-list %}
+      <li style="overflow:hidden">
+        <div style="height:auto; display:flex; align-item:center;">
+          <img style="width:100%; height:auto; align-self: center;" src="{{ image.url }}">
+        </div>
+      </li>
+      {% endfor %}
+      {% for image in site.static_files %}
+      {% if image.path contains 'img/banner/' %}
+      <li>
+        <img src="{{ site.baseurl }}{{ image.path }}">
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>

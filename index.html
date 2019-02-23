@@ -1,40 +1,17 @@
 ---
-title:  International Symposium on Code Generation and Optimization 2020
+title: International Symposium on Code Generation and Optimization 2020
 banner-image-list:
     - url: https://upload.wikimedia.org/wikipedia/commons/d/d2/San_Diego_Skyline_Night_JD081107.jpg
 ---
 
-<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/css/lightslider.min.css" />
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.min.js" defer></script>
-<script src="{{ site.baseurl }}/js/lightsliderrun.js" defer></script>
+{% include banner.html %}
 
-<div style="padding-bottom:0;" class="jumbotron">
-  <div class="container">
-    <ul id="lightSlider">
-      {% for image in page.banner-image-list %}
-      <li style="overflow:hidden">
-        <div style="height:auto; display:flex; align-item:center;">
-          <img style="width:100%; height:auto; align-self: center;" src="{{ image.url }}">
-        </div>
-      </li>
-      {% endfor %}
-      {% for image in site.static_files %}
-      {% if image.path contains 'img/banner/' %}
-      <li>
-        <img src="{{ site.baseurl }}{{ image.path }}">
-      </li>
-      {% endif %}
-      {% endfor %}
-    </ul>
-  </div>
-</div>
 <section class="no-top-padding">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
         <h1 class="section-heading" style="margin-bottom:.2em;">
-          International Symposium on Code Generation and Optimization
+          {{ site.conference.title }}
         </h1>
         <p class="lead section-lead"><b>February 2020, San Diego, CA, USA</b></p>
         <p class="lead section-lead">
