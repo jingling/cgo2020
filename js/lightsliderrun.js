@@ -3,6 +3,6 @@ $(document).ready(function() {
 		item:1,
 		speed:1000,
 		auto:false,
-		loop:false,
+		loop:true,
 	}); 
 });
