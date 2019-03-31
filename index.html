@@ -26,8 +26,21 @@ banner-image-list:
     </div>
 
     <div class="row">
-      {% include sponsors.html %}
-      {% include mailinglist.html %}
+        <div class="col-lg-6">
+          {% include important-dates.html %}
+        </div>
+        <div class="col-lg-6">
+          {% include updates.html %}
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-8">
+          {% include sponsors.html %}
+        </div>
+        <div class="col-lg-4">
+          {% include mailinglist.html %}
+        </div>
     </div>
 
 </section>

@@ -33,7 +33,9 @@
               <li {% if page.url == "/venue/" %}class="active"{% endif %}><a href="{{ '/venue/' | relative_url }}">Venue and Travel</a></li>
             </ul>
           </li> -->
-        <!-- <li {% if page.url == "/organization/" %}class="active"{% endif %}><a href="{{ '/organization/' | relative_url }}">Organization</a></li> -->
+        {% if site.data.organization %}
+          <li {% if page.url == "/organization/" %}class="active"{% endif %}><a href="{{ '/organization/' | relative_url }}">Organization</a></li>
+        {% endif %}
       </ul> <!-- /.navbar-nav -->
 
       <ul class="nav navbar-nav navbar-right">

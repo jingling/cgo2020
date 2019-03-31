@@ -1,0 +1,23 @@
+{% if site.data.important-dates %}
+<div class="panel panel-default">
+  <div class="panel-heading"><b>Important Dates</b></div>
+  <table class="table">
+    <tbody>
+      {% for date in site.data.important-dates %}
+        <tr>
+          <td style="text-align: right"><b>
+            {% if date.done %} <del> {% endif %}
+              {{ date.date }}
+            {% if date.done %} </del> {% endif %}
+          </b></td>
+          <td>
+            {% if date.done %} <del> {% endif %}
+              {{ date.text | markdownify }}
+            {% if date.done %} </del> {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endif %}

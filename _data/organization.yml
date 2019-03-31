@@ -1,0 +1,159 @@
+# - role: General Chair
+#   name: Mahmut Taylan Kandemir
+#   affiliation: Penn State
+
+# - role: Program Chairs
+#   members:
+#   - name: Alexandra Jimborean
+#     affiliation: Uppsala University
+#   - name: Tipp Moseley
+#     affiliation: Google
+
+# - role: Workshop and Tutorials Chair
+#   name: Xipeng Shen
+#   affiliation: North Carolina State University
+
+# - role: Artifact Evaluation Chairs
+#   members:
+#   - name: Bruce Childers
+#     affiliation: University of Pittsburgh
+#   - name: Luis Oliveria
+#     affiliation: University of Pittsburgh
+#   - name: Michel Steuwer
+#     affiliation: University of Glasgow
+
+# - role: Student Research Competition Chair
+#   name: Jagadish Kotra
+#   affiliation: AMD
+
+# - role: Student Travel Grants Chair
+#   name: Jack Sampson
+#   affiliation: Penn State
+
+# - role: Publicity Chair
+#   name: Adwait Jog
+#   affiliation: The College of William and Mary
+
+# - role: Sponsorship Chair
+#   name: Zehra Sura
+#   affiliation: IBM
+
+# - role: Proceedings Chair
+#   name: Jennifer Sartor
+#   affiliation: Vrije Universiteit Brussel and Ghent University
+
+# - role: Treasurer/Finance Chair
+#   name: Zheng Zhang
+#   affiliation: Rutgers University
+
+# - role: Registration Chair
+#   name: Mila Dalla Preda
+#   affiliation: University of Verona
+
+# - role: Steering Committee
+#   members:
+#   - name: Aaron Smith
+#     affiliation: Microsoft Research
+#   - name: Carol Eidt
+#     affiliation: Microsoft
+#   - name: Fabrice Rastello
+#     affiliation: Inria
+#   - name: Jack W. Davidson
+#     affiliation: University of Virginia
+#   - name: Jason Mars
+#     affiliation: University of Michigan
+#   - name: Kunle Olukotun
+#     affiliation: Stanford University
+#   - name: Scott Mahlke
+#     affiliation: University of Michigan
+#   - name: Teresa Johnson
+#     affiliation: Google
+#   - name: Vijay Janapa Reddi
+#     affiliation: University of Texas at Austin
+
+# - role: Program Committee
+#   members:
+#   - name: Aaron Smith
+#     affiliation: Microsoft Research
+#   - name: Albert Cohen
+#     affiliation: Inria
+#   - name: Antoniu Pop
+#     affiliation: University of Manchester
+#   - name: Apan Qasem
+#     affiliation: AMD/Texas State University
+#   - name: Ayal Zaks
+#     affiliation: Intel Haifa
+#   - name: Ben Zorn
+#     affiliation: Microsoft Research
+#   - name: Bettina Heim
+#     affiliation: Microsoft
+#   - name: Carol Eidt
+#     affiliation: Microsoft
+#   - name: Changhee Jung
+#     affiliation: Virginia Tech
+#   - name: Chen Ding
+#     affiliation: University of Rochester
+#   - name: Christophe Dubach
+#     affiliation: University of Edinburgh
+#   - name: Derek Bruening
+#     affiliation: Google
+#   - name: Dongyoon Lee
+#     affiliation: Virginia Tech
+#   - name: Erven Rohou
+#     affiliation: INRIA Rennes
+#   - name: Evelyn Duesterwald
+#     affiliation: IBM
+#   - name: Gregory Diamos
+#     affiliation: NVidia
+#   - name: Grigori Fursin
+#     affiliation: Dividiti/ctuning
+#   - name: Guilherme Ottoni
+#     affiliation: Facebook
+#   - name: Guoyang Chen
+#     affiliation: Alibaba Group US Inc
+#   - name: Hiroshi Inoue
+#     affiliation: IBM Japan
+#   - name: Jeronimo Castrillon
+#     affiliation: Technical University of Dresden
+#   - name: Jingling Xue
+#     affiliation: UNSW
+#   - name: Michael Carbin
+#     affiliation: MIT
+#   - name: Michel Steuwer
+#     affiliation: University of Glasgow
+#   - name: Naila Farooqui
+#     affiliation: NVidia
+#   - name: Peng Wu
+#     affiliation: Huawei
+#   - name: Rafael Auler
+#     affiliation: Facebook
+#   - name: Rajkishore Barik
+#     affiliation: Uber
+#   - name: Robert Cohn
+#     affiliation: Intel
+#   - name: Santosh Nagarakatte
+#     affiliation: Rutgers
+#   - name: Sebastian Hack
+#     affiliation: University of Saarland
+#   - name: Simone Campanoni
+#     affiliation: Northwestern University
+#   - name: Taewook Oh
+#     affiliation: Facebook
+#   - name: Tatiana Shpeisman
+#     affiliation: Google
+#   - name: Teresa Johnson
+#     affiliation: Google
+#   - name: Tobias Grosser
+#     affiliation: ETH Zurich
+#   - name: Tomofumi Yuki
+#     affiliation: Inria
+#   - name: Walter Binder
+#     affiliation: University of Lugano (USI)
+#   - name: Xu Liu
+#     affiliation: College of William and Mary
+#   - name: Yufei Ding
+#     affiliation: UC Santa Barbara
+
+# - role: Web Chair
+#   name: Gang Tan
+#   affiliation: Penn State
