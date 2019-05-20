@@ -2,13 +2,13 @@
 #   name: Mahmut Taylan Kandemir
 #   affiliation: Penn State
 
-# - role: Program Chairs
-#   members:
-#   - name: Alexandra Jimborean
-#     affiliation: Uppsala University
-#   - name: Tipp Moseley
-#     affiliation: Google
-
+ - role: Program Chairs
+   members:
+   - name: Jingling Xue
+    affiliation: UNSW Sydney
+     - name: Peng Wu
+      affiliation: Huawei America Research Lab
+      
 # - role: Workshop and Tutorials Chair
 #   name: Xipeng Shen
 #   affiliation: North Carolina State University
