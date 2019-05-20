@@ -1,6 +1,9 @@
-# - role: General Chair
-#   name: Mahmut Taylan Kandemir
-#   affiliation: Penn State
+- role: General Chair
+  members:
+  - name: Jason Mars
+  affiliation: University of Michigan
+  - name: Lingjia Tang
+  affiliation:  University of Michigan
 
 - role: Program Chairs
   members:
