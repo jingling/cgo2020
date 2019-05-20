@@ -2,12 +2,12 @@
 #   name: Mahmut Taylan Kandemir
 #   affiliation: Penn State
 
- - role: Program Chairs
-   members:
-   - name: Jingling Xue
+- role: Program Chairs
+  members:
+  - name: Jingling Xue
     affiliation: UNSW Sydney
-     - name: Peng Wu
-      affiliation: Huawei America Research Lab
+  - name: Peng Wu
+    affiliation: Huawei America Research Lab
       
 # - role: Workshop and Tutorials Chair
 #   name: Xipeng Shen
