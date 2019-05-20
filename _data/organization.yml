@@ -1,4 +1,7 @@
-- role: General Chair
+- role: General Chairs
+  members:
+  - name: Jason Mars
+  affiliation: University of Michigan
   - name: Lingjia Tang
   affiliation:  University of Michigan
 
