@@ -34,9 +34,9 @@
 #   name: Jack Sampson
 #   affiliation: Penn State
 
-# - role: Publicity Chair
-#   name: Adwait Jog
-#   affiliation: The College of William and Mary
+- role: Publicity Chair
+  name: Fabian Gruber
+  affiliation: INRIA
 
 # - role: Sponsorship Chair
 #   name: Zehra Sura
@@ -75,89 +75,87 @@
 #   - name: Vijay Janapa Reddi
 #     affiliation: University of Texas at Austin
 
-# - role: Program Committee
-#   members:
-#   - name: Aaron Smith
-#     affiliation: Microsoft Research
-#   - name: Albert Cohen
-#     affiliation: Inria
-#   - name: Antoniu Pop
-#     affiliation: University of Manchester
-#   - name: Apan Qasem
-#     affiliation: AMD/Texas State University
-#   - name: Ayal Zaks
-#     affiliation: Intel Haifa
-#   - name: Ben Zorn
-#     affiliation: Microsoft Research
-#   - name: Bettina Heim
-#     affiliation: Microsoft
-#   - name: Carol Eidt
-#     affiliation: Microsoft
-#   - name: Changhee Jung
-#     affiliation: Virginia Tech
-#   - name: Chen Ding
-#     affiliation: University of Rochester
-#   - name: Christophe Dubach
-#     affiliation: University of Edinburgh
-#   - name: Derek Bruening
-#     affiliation: Google
-#   - name: Dongyoon Lee
-#     affiliation: Virginia Tech
-#   - name: Erven Rohou
-#     affiliation: INRIA Rennes
-#   - name: Evelyn Duesterwald
-#     affiliation: IBM
-#   - name: Gregory Diamos
-#     affiliation: NVidia
-#   - name: Grigori Fursin
-#     affiliation: Dividiti/ctuning
-#   - name: Guilherme Ottoni
-#     affiliation: Facebook
-#   - name: Guoyang Chen
-#     affiliation: Alibaba Group US Inc
-#   - name: Hiroshi Inoue
-#     affiliation: IBM Japan
-#   - name: Jeronimo Castrillon
-#     affiliation: Technical University of Dresden
-#   - name: Jingling Xue
-#     affiliation: UNSW
-#   - name: Michael Carbin
-#     affiliation: MIT
-#   - name: Michel Steuwer
-#     affiliation: University of Glasgow
-#   - name: Naila Farooqui
-#     affiliation: NVidia
-#   - name: Peng Wu
-#     affiliation: Huawei
-#   - name: Rafael Auler
-#     affiliation: Facebook
-#   - name: Rajkishore Barik
-#     affiliation: Uber
-#   - name: Robert Cohn
-#     affiliation: Intel
-#   - name: Santosh Nagarakatte
-#     affiliation: Rutgers
-#   - name: Sebastian Hack
-#     affiliation: University of Saarland
-#   - name: Simone Campanoni
-#     affiliation: Northwestern University
-#   - name: Taewook Oh
-#     affiliation: Facebook
-#   - name: Tatiana Shpeisman
-#     affiliation: Google
-#   - name: Teresa Johnson
-#     affiliation: Google
-#   - name: Tobias Grosser
-#     affiliation: ETH Zurich
-#   - name: Tomofumi Yuki
-#     affiliation: Inria
-#   - name: Walter Binder
-#     affiliation: University of Lugano (USI)
-#   - name: Xu Liu
-#     affiliation: College of William and Mary
-#   - name: Yufei Ding
-#     affiliation: UC Santa Barbara
+- role: Web Chair
+  name: Dongjie He
+  affiliation: UNSW Sydney
 
-# - role: Web Chair
-#   name: Gang Tan
-#   affiliation: Penn State
+- role: Program Committee
+  members:
+  - name: Aaron Smith
+    affiliation: Microsoft Research/Edinburgh University
+  - name: Andrew Adams
+    affiliation: Facebook
+  - name: Antonia Zhai
+    affiliation: University of Minnesota
+  - name: Ben Hardekopf
+    affiliation: UCSB
+  - name: Bruce R. Childers
+    affiliation: University of Pittsburgh
+  - name: Calin Cascaval
+    affiliation: Barefoot Networks
+  - name: Changhee Jung
+    affiliation: Virginia Tech
+  - name: Christophe Dubach
+    affiliation: University of Edinburgh
+  - name: Damian Dechev
+    affiliation: University of Central Florida
+  - name: Erik Altman
+    affiliation: IBM
+  - name: Fabrice Rastello
+    affiliation: INRIA
+  - name: Fredrick Kjolstad
+    affiliation: MIT
+  - name: Gennady Pekhimenko
+    affiliation: University of Toronto
+  - name: Guilherme Ottoni
+    affiliation: Facebook
+  - name: Guoyang Chen
+    affiliation: Alibaba Group US Inc
+  - name: Huimin Cui
+    affiliation: Chinese Academy of Sciences
+  - name: Jaejin Lee
+    affiliation: Seoul National University
+  - name: J Nelson Amaral
+    affiliation: University of Alberta
+  - name: Lisa Wu
+    affiliation: UC Berkeley
+  - name: Louis-Noël Pouchet
+    affiliation: Ohio State University
+  - name: Mahmut T. Kandemir
+    affiliation: Pennsylvania State University
+  - name: Maria Garzaran
+    affiliation: Intel/UIUC
+  - name: Michel Steuwer
+    affiliation: University of Glasgow
+  - name: Pen-Chung Yew
+    affiliation: University of Minnesota
+  - name: Raj Barik
+    affiliation: Uber
+  - name: Rajiv Gupta
+    affiliation: UC Riverside
+  - name: Sanjay Rajopadhye
+    affiliation: Colorado State University
+  - name: Simone Campanoni
+    affiliation: Northwestern University
+  - name: Snehasish Kumar
+    affiliation: Google
+  - name: Sreepathi Pai
+    affiliation: University of Rochester
+  - name: Svilen Kanev
+    affiliation: Google
+  - name: Teresa Johnson
+    affiliation: Google
+  - name: Timothy M. Jones
+    affiliation: University of Cambridge
+  - name: Tobias Grosser
+    affiliation: ETH Zurich
+  - name: Vijay Janapa Reddi
+    affiliation: Harvard University
+  - name: Walter Binder
+    affiliation: University of Lugano
+  - name: Xipeng Shen
+    affiliation: North Carolina State Uiversity
+  - name: Xu Liu
+    affiliation: College of William and Mary
+  - name: Zheng Wang
+    affiliation: Lancaster University
