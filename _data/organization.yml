@@ -1,10 +1,10 @@
 
-#- role: General Chairs
-#  members:
-#  - name: Jason Mars
-#    affiliation: University of Michigan
-#  - name: Lingjia Tang
-#    affiliation:  University of Michigan
+- role: General Chairs
+ members:
+ - name: Jason Mars
+   affiliation: University of Michigan
+ - name: Lingjia Tang
+   affiliation:  University of Michigan
 
 - role: Program Chairs
   members:
@@ -54,26 +54,26 @@
 #   name: Mila Dalla Preda
 #   affiliation: University of Verona
 
-# - role: Steering Committee
-#   members:
-#   - name: Aaron Smith
-#     affiliation: Microsoft Research
-#   - name: Carol Eidt
-#     affiliation: Microsoft
-#   - name: Fabrice Rastello
-#     affiliation: Inria
-#   - name: Jack W. Davidson
-#     affiliation: University of Virginia
-#   - name: Jason Mars
-#     affiliation: University of Michigan
-#   - name: Kunle Olukotun
-#     affiliation: Stanford University
-#   - name: Scott Mahlke
-#     affiliation: University of Michigan
-#   - name: Teresa Johnson
-#     affiliation: Google
-#   - name: Vijay Janapa Reddi
-#     affiliation: University of Texas at Austin
+- role: Steering Committee
+  members:
+  - name: Aaron Smith
+    affiliation: Microsoft Research
+  - name: Carol Eidt
+    affiliation: Microsoft
+  - name: Fabrice Rastello
+    affiliation: Inria
+  - name: Jack W. Davidson
+    affiliation: University of Virginia
+  - name: Jason Mars
+    affiliation: University of Michigan
+  # - name: Kunle Olukotun
+  #   affiliation: Stanford University
+  # - name: Scott Mahlke
+  #   affiliation: University of Michigan
+  - name: Teresa Johnson
+    affiliation: Google
+  # - name: Vijay Janapa Reddi
+  #   affiliation: University of Texas at Austin
 
 - role: Web Chair
   name: Dongjie He
@@ -82,7 +82,7 @@
 - role: Program Committee
   members:
   - name: Aaron Smith
-    affiliation: Microsoft Research/Edinburgh University
+    affiliation: Microsoft/Edinburgh University
   - name: Andrew Adams
     affiliation: Facebook
   - name: Antonia Zhai
