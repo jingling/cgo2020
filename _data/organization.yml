@@ -34,6 +34,10 @@
 #   name: Jack Sampson
 #   affiliation: Penn State
 
+- role: Treasurer/Finance Chair
+  name: Christophe Dubach
+  affiliation: Edinburgh University
+
 - role: Publicity Chair
   name: Fabian Gruber
   affiliation: INRIA
@@ -45,10 +49,6 @@
 # - role: Proceedings Chair
 #   name: Jennifer Sartor
 #   affiliation: Vrije Universiteit Brussel and Ghent University
-
-# - role: Treasurer/Finance Chair
-#   name: Zheng Zhang
-#   affiliation: Rutgers University
 
 # - role: Registration Chair
 #   name: Mila Dalla Preda
@@ -89,16 +89,18 @@
     affiliation: University of Minnesota
   - name: Ben Hardekopf
     affiliation: UCSB
+  - name: Bj&#246;rn Franke
+    affiliation: University of Edinburgh
   - name: Bruce R. Childers
     affiliation: University of Pittsburgh
-  - name: Calin Cascaval
-    affiliation: Barefoot Networks
   - name: Changhee Jung
     affiliation: Virginia Tech
   - name: Christophe Dubach
     affiliation: University of Edinburgh
   - name: Damian Dechev
     affiliation: University of Central Florida
+  - name: Derek Bruening
+    affiliation: Google
   - name: Erik Altman
     affiliation: IBM
   - name: Fabrice Rastello
