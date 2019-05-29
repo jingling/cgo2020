@@ -17,14 +17,14 @@
 #   name: Xipeng Shen
 #   affiliation: North Carolina State University
 
-# - role: Artifact Evaluation Chairs
-#   members:
-#   - name: Bruce Childers
-#     affiliation: University of Pittsburgh
-#   - name: Luis Oliveria
-#     affiliation: University of Pittsburgh
-#   - name: Michel Steuwer
-#     affiliation: University of Glasgow
+- role: Artifact Evaluation Chair
+  # members:
+  # - name: Bruce Childers
+  #   affiliation: University of Pittsburgh
+  # - name: Luis Oliveria
+  #   affiliation: University of Pittsburgh
+  name: Michel Steuwer
+  affiliation: University of Glasgow
 
 # - role: Student Research Competition Chair
 #   name: Jagadish Kotra
