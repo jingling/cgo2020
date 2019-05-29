@@ -5,6 +5,8 @@ title: Call for Papers
 
 # Call for Papers
 
+## Including New Call for Tool and Practical Experience Papers
+
 The International Symposium on Code Generation and Optimization (CGO) provides a premier venue to bring together researchers and practitioners working at the interface of hardware and software on a wide range of optimization and code generation techniques and related issues. The conference spans the spectrum from purely static to fully dynamic approaches, and from pure software-based methods to specific architectural features and support for code generation and optimization.
 
 Original contributions are solicited on, but not limited to, the following topics:
