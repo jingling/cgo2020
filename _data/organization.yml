@@ -40,7 +40,7 @@
 
 - role: Publicity Chair
   name: Fabian Gruber
-  affiliation: INRIA
+  affiliation: Inria
 
 # - role: Sponsorship Chair
 #   name: Zehra Sura
@@ -61,7 +61,7 @@
   - name: Carol Eidt
     affiliation: Microsoft
   - name: Fabrice Rastello
-    affiliation: INRIA
+    affiliation: Inria
   - name: Jack W. Davidson
     affiliation: University of Virginia
   - name: Jason Mars
@@ -104,7 +104,7 @@
   - name: Erik Altman
     affiliation: IBM
   - name: Fabrice Rastello
-    affiliation: INRIA
+    affiliation: Inria
   - name: Fredrick Kjolstad
     affiliation: MIT
   - name: Gennady Pekhimenko
