@@ -13,26 +13,29 @@
   - name: Peng Wu
     affiliation: Futurewei Technologies
       
-# - role: Workshop and Tutorials Chair
-#   name: Xipeng Shen
-#   affiliation: North Carolina State University
+- role: Workshop and Tutorials Chairs
+  members:
+  - name: Johann Hauswald
+    affiliation: Clinc
+  - name: Yunqi Zhang
+    affiliation: Clinc
 
-- role: Artifact Evaluation Chair
-  # members:
+- role: Artifact Evaluation Chairs
+  members:
   # - name: Bruce Childers
   #   affiliation: University of Pittsburgh
-  # - name: Luis Oliveria
-  #   affiliation: University of Pittsburgh
-  name: Michel Steuwer
-  affiliation: University of Glasgow
+  - name: Michael Laurenzano
+    affiliation: University of Michigan/Clinc
+  - name: Michel Steuwer
+    affiliation: University of Glasgow
 
 # - role: Student Research Competition Chair
 #   name: Jagadish Kotra
 #   affiliation: AMD
 
-# - role: Student Travel Grants Chair
-#   name: Jack Sampson
-#   affiliation: Penn State
+- role: Student Travel Grants Chair
+  name: Animesh Jain
+  affiliation: Amazon
 
 - role: Treasurer/Finance Chair
   name: Christophe Dubach
