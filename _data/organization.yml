@@ -29,9 +29,9 @@
   - name: Michel Steuwer
     affiliation: University of Glasgow
 
-# - role: Student Research Competition Chair
-#   name: Jagadish Kotra
-#   affiliation: AMD
+- role: Student Research Competition Chair
+  name: Changhee Jung
+  affiliation: Purdue University
 
 - role: Student Travel Grants Chair
   name: Animesh Jain
@@ -53,9 +53,9 @@
 #   name: Jennifer Sartor
 #   affiliation: Vrije Universiteit Brussel and Ghent University
 
-# - role: Registration Chair
-#   name: Mila Dalla Preda
-#   affiliation: University of Verona
+- role: Registration Chair
+  name: Dongyoon Lee
+  affiliation: Virgina Tech
 
 - role: Steering Committee
   members:
