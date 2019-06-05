@@ -22,8 +22,8 @@
 
 - role: Artifact Evaluation Chairs
   members:
-  # - name: Bruce Childers
-  #   affiliation: University of Pittsburgh
+  - name: Bastian Hagedorn
+    affiliation: University of Münster
   - name: Michael Laurenzano
     affiliation: University of Michigan/Clinc
   - name: Michel Steuwer
