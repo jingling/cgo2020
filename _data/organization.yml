@@ -57,6 +57,10 @@
   name: Dongyoon Lee
   affiliation: Virgina Tech
 
+- role: Web Chair
+  name: Dongjie He
+  affiliation: UNSW Sydney
+
 - role: Steering Committee
   members:
   - name: Aaron Smith
@@ -77,10 +81,6 @@
     affiliation: Google
   # - name: Vijay Janapa Reddi
   #   affiliation: University of Texas at Austin
-
-- role: Web Chair
-  name: Dongjie He
-  affiliation: UNSW Sydney
 
 - role: Program Committee
   members:
