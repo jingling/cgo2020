@@ -64,7 +64,7 @@
 - role: Steering Committee
   members:
   - name: Aaron Smith
-    affiliation: Microsoft Research
+    affiliation: Microsoft
   - name: Carol Eidt
     affiliation: Microsoft
   - name: Fabrice Rastello
@@ -85,7 +85,7 @@
 - role: Program Committee
   members:
   - name: Aaron Smith
-    affiliation: Microsoft/Edinburgh University
+    affiliation: Microsoft/University of Edinburgh
   - name: Andrew Adams
     affiliation: Facebook
   - name: Antonia Zhai
