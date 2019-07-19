@@ -79,8 +79,8 @@
   #   affiliation: University of Michigan
   - name: Teresa Johnson
     affiliation: Google
-  # - name: Vijay Janapa Reddi
-  #   affiliation: University of Texas at Austin
+  - name: Vijay Janapa Reddi
+    affiliation: Harvard University
 
 - role: Program Committee
   members:
