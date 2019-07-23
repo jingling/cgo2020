@@ -23,7 +23,17 @@
             </ul>
           </a>
         </li> -->
-        <li {% if page.url == "/call/" %}class="active"{% endif %}><a href="{{ '/call/' | relative_url }}">Call For Papers</a></li>
+
+        <li class="dropdown">
+          <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" id="program-dropdown" role="button">
+            Calls
+            <b class="caret"></b>
+            <ul aria-labelledby="program-dropdown" class="dropdown-menu">
+              <li {% if page.url == "/call/" %}class="active"{% endif %}><a href="{{ '/call/' | relative_url }}">Call For Papers</a></li>
+              <li {% if page.url == "/workshop/" %}class="active"{% endif %}><a href="{{ '/call/' | relative_url }}">Workshops and Tutorials</a></li>
+            </ul>
+          </a>
+        </li>
 
         <li class="dropdown">
           <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" id="program-dropdown" role="button">
