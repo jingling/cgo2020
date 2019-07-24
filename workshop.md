@@ -5,7 +5,7 @@ title: Call for Workshops and Tutorials
 
 # Call for Workshops and Tutorials
 
-CGO 2012 will host co-located workshops and tutorials on
+CGO 2020 will host co-located workshops and tutorials on
 Saturday and Sunday (2/22 - 2/23/2020) before the main
 conference. This is your event's chance to take advantage of the
 interdisciplinary audience of CGO, HPCA, and PPoPP. Please
