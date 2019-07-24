@@ -23,7 +23,6 @@ Email the proposal as a PDF file (approximately 1-2 pages) to Yunqi Zhang
 containing "[CGO'2020wt]".
 
 # Contents for all proposals
-<br/>
 
 - **Title**: (name of workshop or tutorial)
 - **Type**: (workshop or tutorial)
