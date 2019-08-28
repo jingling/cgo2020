@@ -10,3 +10,6 @@
 - name: IEEE
   url: https://www.ieee.org
   logo-url: img/sponsors/ieee.png
+- name: Facebook
+  url: https://research.fb.com/
+  logo-url: img/sponsors/Facebook.png
