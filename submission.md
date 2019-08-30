@@ -37,10 +37,10 @@ Please make sure that your paper satisfies **ALL** of the following requirements
 	- People with whom you have collaborated in the last FIVE years, including:
 		- co-authors of accepted/rejected/pending papers.
 		- co-PIs on accepted/rejected/pending grant proposals.
-		- Funders (decision-makers) of your research grants, and researchers whom you fund.
-		- People (including students) who shared your primary institution(s) in the last FIVE years.
-		- Other relationships, such as close personal friendship, that you think might tend to affect your judgement or be seen as doing so by a reasonable person familiar with the relationship.
-		- “Service” collaborations such as co-authoring a report for a professional organization, serving on a program committee, or co-presenting tutorials, do not themselves create a conflict of interest. Co-authoring a paper that is a compendium of various projects with no true collaboration among the projects does not constitute a conflict among the authors of the different projects.
+	- Funders (decision-makers) of your research grants, and researchers whom you fund.
+	- People (including students) who shared your primary institution(s) in the last FIVE years.
+	- Other relationships, such as close personal friendship, that you think might tend to affect your judgement or be seen as doing so by a reasonable person familiar with the relationship.
+	- “Service” collaborations such as co-authoring a report for a professional organization, serving on a program committee, or co-presenting tutorials, do not themselves create a conflict of interest. Co-authoring a paper that is a compendium of various projects with no true collaboration among the projects does not constitute a conflict among the authors of the different projects.
 
 On the other hand, there may be others not covered by the above with whom you believe a COI exists, for example, an ongoing collaboration which has not yet resulted in the creation of a paper or proposal. Please report such COIs; however, you may be asked to justify them. Please be reasonable. For example, you cannot declare a COI with a reviewer just because that reviewer works on topics similar to or related to those in your paper. The PC Chair may contact co-authors to explain a COI whose origin is unclear.
 
