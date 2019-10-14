@@ -28,6 +28,28 @@
     affiliation: University of Michigan/Clinc
   - name: Michel Steuwer
     affiliation: University of Glasgow
+  - name: Tobias Kohn 
+    affiliation: University of Cambridge
+  - name: Joe Isaacs
+    affiliation: University of Cambridge
+  - name: Hariharan Sandanagobalane 
+    affiliation: NVIDIA
+  - name: Pengei Su
+    affiliation: College of William and Mary
+  - name: Charith Mendis
+    affiliation: MIT
+  - name: Bastian Köpcke 
+    affiliation: University of Muenster
+  - name: Thomas Koehler 
+    affiliation: University of Glasgow
+  - name: Fangzhou Liu 
+    affiliation: University of Rochester
+  - name: Andrew Lee 
+    affiliation: University of Michigan
+  - name: Chris Clarke 
+    affiliation: University of Michigan
+  - name: Roland Daynauth 
+    affiliation: University of Michigan
 
 - role: Student Research Competition Chair
   name: Changhee Jung
