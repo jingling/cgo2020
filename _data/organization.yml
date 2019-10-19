@@ -13,6 +13,10 @@
   - name: Peng Wu
     affiliation: Futurewei Technologies
       
+- role: Treasurer/Finance & Sponsor Chair
+  name: Christophe Dubach
+  affiliation: University of Edinburgh 
+  
 - role: Workshop and Tutorials Chairs
   members:
   - name: Johann Hauswald
@@ -36,10 +40,6 @@
 - role: Student Travel Grants Chair
   name: Animesh Jain
   affiliation: Amazon
-
-- role: Treasurer/Finance & Sponsor Chair
-  name: Christophe Dubach
-  affiliation: University of Edinburgh 
 
 - role: Publicity Chair
   name: Fabian Gruber
