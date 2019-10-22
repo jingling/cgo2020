@@ -25,9 +25,9 @@ ACM describes a research artifact as follows:
 ## Deadlines
 
 --- | ---
-**08 November 2019**       | Artifact Submission
-**18 -- 29 November 2019** | Artifact Evaluation Technical Clarification Period
-**06 December 2019**       | Artifact Evaluation Notification
+**15 November 2019**       | Artifact Submission
+**25 November -- 6 December 2019** | Artifact Evaluation Technical Clarification Period
+**13 December 2019**       | Artifact Evaluation Notification
 
 
 ## Submission
