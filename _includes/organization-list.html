@@ -1,29 +1,29 @@
 {% for position in site.data.organization %}
 
-<h3>{{ position.role | markdownify }}</h3>
+<h3 id="{{ position.role | slugify }}">{{ position.role | markdownify }}</h3>
 <table>
   <tbody>
-{% if position.members %}
-  {% for member in position.members %}
+    {% if position.members %}
+    {% for member in position.members %}
     <tr>
-        <td>
-          {{ member.name | markdownify }}
-        </td>
-        <td>
-            {{ member.affiliation | markdownify }}
-        </td>
-      </tr>
-  {% endfor %}
-{% else %}
-  <tr>
-    <td>
-      {{ position.name | markdownify }}
-    </td>
-    <td>
+      <td>
+        {{ member.name | markdownify }}
+      </td>
+      <td>
+        {{ member.affiliation | markdownify }}
+      </td>
+    </tr>
+    {% endfor %}
+    {% else %}
+    <tr>
+      <td>
+        {{ position.name | markdownify }}
+      </td>
+      <td>
         {{ position.affiliation | markdownify }}
-    </td>
-  </tr>
-{% endif %}  
+      </td>
+    </tr>
+    {% endif %}
   </tbody>
 </table>
 

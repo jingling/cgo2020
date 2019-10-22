@@ -7,12 +7,13 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="{{ '/' | relative_url }}"> {{ site.conference.short_title }} {{ site.conference.year }}</a>
+      <a class="navbar-brand" href="{{ '/' | relative_url }}"> {{ site.conference.short_title }}
+        {{ site.conference.year }}</a>
     </div> <!-- /.navbar-header -->
 
     <div class="collapse navbar-collapse" id="navbar-collapse">
       <ul class="nav navbar-nav">
-        <li {% if page.url == "/" %}class="active"{% endif %}><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li {% if page.url == "/" %}class="active" {% endif %}><a href="{{ '/' | relative_url }}">Home</a></li>
         <!-- <li class="dropdown">
           <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" id="program-dropdown" role="button">
             Program
@@ -25,23 +26,37 @@
         </li> -->
 
         <li class="dropdown">
-          <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" id="program-dropdown" role="button">
+          <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#"
+            id="program-dropdown" role="button">
             Calls
             <b class="caret"></b>
             <ul aria-labelledby="program-dropdown" class="dropdown-menu">
-              <li {% if page.url == "/call/" %}class="active"{% endif %}><a href="{{ '/call/' | relative_url }}">Call For Papers</a></li>
-              <li {% if page.url == "/workshop/" %}class="active"{% endif %}><a href="{{ '/workshop/' | relative_url }}">Workshops and Tutorials</a></li>
+              <li {% if page.url == "/call/" %}class="active" {% endif %}><a href="{{ '/call/' | relative_url }}">Call
+                  For Papers</a></li>
+              <li {% if page.url == "/ae/" %}class="active" {% endif %}><a
+                  href="{{ '/ae/#call-for-artifacts' | relative_url }}">Call
+                  For Artifacts</a></li>
+              <li {% if page.url == "/workshop/" %}class="active" {% endif %}><a
+                  href="{{ '/workshop/' | relative_url }}">Workshops and Tutorials</a></li>
             </ul>
           </a>
         </li>
 
         <li class="dropdown">
-          <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" id="program-dropdown" role="button">
+          <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#"
+            id="program-dropdown" role="button">
             Submissions
             <b class="caret"></b>
             <ul aria-labelledby="program-dropdown" class="dropdown-menu">
-              <li {% if page.url == "/submission/" %}class="active"{% endif %}><a href="{{ '/submission/' | relative_url }}">Submission information</a></li>
-              <li ><a href="https://cgo20.hotcrp.com">Submissions site</a></li>
+              <li {% if page.url == "/submission/" %}class="active" {% endif %}><a
+                  href="{{ '/submission/' | relative_url }}">Submission information</a></li>
+              <li><a href="https://cgo20.hotcrp.com">Submissions site</a></li>
+              <li>
+                <hr />
+              </li>
+              <li {% if page.url == "/ae/" %}class="active" {% endif %}><a href="{{ '/ae/' | relative_url }}">Artifact
+                  submission information</a></li>
+              <li><a href="https://cgo20ae.hotcrp.com">Artifact submissions site</a></li>
             </ul>
           </a>
         </li>
@@ -56,21 +71,23 @@
             </ul>
           </li> -->
         {% if site.data.organization %}
-          <li {% if page.url == "/organization/" %}class="active"{% endif %}><a href="{{ '/organization/' | relative_url }}">Organization</a></li>
+        <li {% if page.url == "/organization/" %}class="active" {% endif %}><a
+            href="{{ '/organization/' | relative_url }}">Organization</a></li>
         {% endif %}
       </ul> <!-- /.navbar-nav -->
 
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
-          <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" id="past-cgos-dropdown" role="button">
+          <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#"
+            id="past-cgos-dropdown" role="button">
             Previous {{site.conference.short_title}}s
             <b class="caret"></b>
           </a>
           <ul aria-labelledby="past-cgos-dropdown" class="dropdown-menu">
-              <!-- <li><a href="http://conf.researchr.org/home/CC-2017">2017</a></li> -->
-              {% for conference in site.data.previous-conferences %}
-              <li><a href="{{ conference.url }}">{{ conference.year }} - {{ conference.location }} </a></li>
-              {% endfor %}
+            <!-- <li><a href="http://conf.researchr.org/home/CC-2017">2017</a></li> -->
+            {% for conference in site.data.previous-conferences %}
+            <li><a href="{{ conference.url }}">{{ conference.year }} - {{ conference.location }} </a></li>
+            {% endfor %}
           </ul>
         </li>
       </ul>
