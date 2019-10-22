@@ -11,8 +11,10 @@
   text: Author Rebuttal Period
 - date: October 22, 2019
   text: Paper Notification
-# - date: Nov 13, 2018
-#   text: Artifact Evaluation Submission
+- date: November 8, 2019
+  text: Artifact Evaluation Submission
+- date: December 6, 2019
+  text: Artifact Evaluation Notification
 # - date: Dec 15, 2018
 #   text: SRC Submission
 # - date: Jan 2, 2019
