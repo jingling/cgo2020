@@ -8,7 +8,7 @@ title: Artifact Evaluation
 # Call for Artifacts
 
 Authors of accepted {{ site.conference.short_title }} {{ site.conference.year }} papers are invited to formally submit their supporting materials to the Artifact Evaluation (AE) process.
-The [artifact evaluation committee](/organization/#artifact-evaluation-committee) attempts to reproduce (at least the main) experiments and assesses if submitted artifacts support the claims made in the paper.
+The [artifact evaluation committee]({{ '/organization/#artifact-evaluation-committee' | relative_url }}) attempts to reproduce (at least the main) experiments and assesses if submitted artifacts support the claims made in the paper.
 The submission is voluntary and does not influence the final decision regarding the paper acceptance.
 
 We invite every author of an accepted {{ site.conference.short_title }} paper to consider submitting an artifact.
