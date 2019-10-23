@@ -13,9 +13,6 @@
 - name: Facebook
   url: https://research.fb.com/
   logo-url: img/sponsors/Facebook.png
-- name: Huawei
-  url: https://www.huawei.com/us/
-  logo-url: img/sponsors/Huawei.png
 - name: Oracle
   url: https://www.oracle.com
   logo-url: img/sponsors/Oracle.png
@@ -25,3 +22,6 @@
 - name: Microsoft
   url: https://www.microsoft.com/
   logo-url: img/sponsors/Microsoft.png
+- name: Huawei
+  url: https://www.huawei.com/us/
+  logo-url: img/sponsors/Huawei.png
