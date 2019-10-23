@@ -19,9 +19,9 @@
 - name: Google
   url: https://www.google.com/
   logo-url: img/sponsors/Google.png
-- name: Microsoft
-  url: https://www.microsoft.com/
-  logo-url: img/sponsors/Microsoft.png
 - name: Huawei
   url: https://www.huawei.com/us/
   logo-url: img/sponsors/Huawei.png
+- name: Microsoft
+  url: https://www.microsoft.com/
+  logo-url: img/sponsors/Microsoft.png
