@@ -25,3 +25,6 @@
 - name: Microsoft
   url: https://www.microsoft.com/
   logo-url: img/sponsors/Microsoft.png
+- name: Alibaba
+  url: https://www.alibabagroup.com
+  logo-url: img/sponsors/alibaba.png
