@@ -9,7 +9,7 @@ IEEE/ACM International Symposium on Code Generation and Optimization Call for St
 The ACM Student Research Competition (SRC) offers a unique forum for undergraduate and graduate students to present their original research before a panel of judges and attendees at CGO. Participants must be undergraduates or graduate students pursuing an academic degree at the time of initial submission. Participants must be current student members of the ACM. The abstracts will be examined by a selection committee and selected abstracts will be invited to present as posters at the conference. SRC poster submissions are, in addition, evaluated by a jury during the poster session at the conference. The best three posters are then invited to give a short presentation (10 minutes + 5 minutes questions) on the next day. Based on the submitted abstract, the poster, and the presentation, the winner of CGO's Student Research Competition will be selected, who will receive an award. In addition, the winner will be invited to participate in the grand 2020 ACM SRC competition. Further information on the ACM SRC is available at: [src.acm.org](http://src.acm.org).
 
 # Travel grant application (deadline: TBD)
-Please note that the qualified students will be supported by a travel grant. Please find more information regarding the travel grants at [this page]().
+Please note that the qualified students will be supported by a travel grant. Please find more information regarding the travel grants at [this page](https://cgo-conference.github.io/cgo2020/travel/).
 
 # SRC Chair
 Changhee Jung (Purdue University)
