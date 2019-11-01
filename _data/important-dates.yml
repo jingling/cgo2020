@@ -1,6 +1,6 @@
 - date: August 30, 2019
   text: Abstract Submission
-#   done: yes
+  done: yes
 - date: September 6, 2019
   text: Paper Submission
 # - date: Sept 24, 2018
@@ -15,6 +15,10 @@
   text: Artifact Evaluation Submission
 - date: December 13, 2019
   text: Artifact Evaluation Notification
+- date: December 15, 2019
+  text: SRC Submission
+- date: January 2, 2020
+  text: SRC Notification
 # - date: Dec 15, 2018
 #   text: SRC Submission
 # - date: Jan 2, 2019
