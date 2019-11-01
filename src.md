@@ -21,7 +21,7 @@ See [this page]().
 -	Changwan Hong (MIT)
 
 # Submission Information
-**Submission must be about unpublished work that is not under review anywhere.** Extended abstracts of up to 500 words should be submitted by email to **chjung@purdue.edu** on or before December 15, 2019. All submissions will be reviewed by a selection committee. Notifications will be sent out by January 2, 2020. ~~Selected submissions will have their abstract included in the CGO 2020 proceedings and will be invited to CGO to participate in the ACM SRC competition.~~
+**Submission must be about unpublished work that is not under review anywhere.** Extended abstracts of up to 500 words should be submitted by email to **chjung@purdue.edu** on or before December 15, 2019. All submissions will be reviewed by a selection committee. Notifications will be sent out by January 2, 2020.
 
 Please format your submission using the SIGPLAN format found [here](http://www.sigplan.org/Resources/Author/). Use one 8.5″x11″ single spaced, double-column page, with 10pt or larger font. Include your name and the name of your advisor(s). Optionally, send a pdf of the poster you plan to present (this does not have to be the final version of the poster).
 
