@@ -65,3 +65,10 @@ table.program tr td ul li {
 .page-content section:first-child:not(.no-top-padding) {
     padding-top: 48px;
 }
+
+table#wtxxx {
+    tr th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+}
