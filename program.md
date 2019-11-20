@@ -13,3 +13,4 @@ title: Program
 | **Conference** |                 | **CGO**     | **CGO**                |
 | Sunday         | AM              | [C4ML](https://c4ml.org/)    | LLVM Performance               |
 |                | PM              | [C4ML](https://c4ml.org/)    | LLVM Performance               |
+{:.table-striped}
