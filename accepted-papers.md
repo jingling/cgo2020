@@ -84,8 +84,7 @@ Pen-Chung Yew, Antonia Zhai, Stephen McCamant (University of Minnesota)<br>
 Sunghyun Park, Shikai Li, Ze Zhang, Scott Mahlke (University of Michigan)<br>
 
 **Secure Automatic Bounds Check: Prevention Is Simpler Than Cure** <br>
-John Ojogbo, Mithuna Thottethodi (Purdue)<br>
-Terani Vijaykumar (Purdue University)<br>
+John Ojogbo, Mithuna Thottethodi, Terani Vijaykumar (Purdue University)<br>
 
 **ATMem: Adaptive Data Placement in Graph Applications on Heterogeneous Memories** <br>
 Yu Chen (College of William & Mary)<br>
@@ -105,8 +104,7 @@ Tyson Loveless, Jason Ott, Philip Brisk (University of California, Riverside)<br
 Carol Eidt, Tanner Gooding (Microsoft)<br>
 
 **Testing Static Analyses for Precision and Soundness**<br>
-Jubi Taneja, Zhengyang Liu (University of Utah)<br>
-John Regehr (University of Utah, USA)<br>
+Jubi Taneja, Zhengyang Liu, John Regehr (University of Utah)<br>
 
 **NeuroVectorizer: End-to-End Vectorization with Deep Reinforcement Learning**<br>
 Ameer Haj-Ali (UC Berkeley); Nesreen K. Ahmed, Ted Willke (Intel Labs)<br>
