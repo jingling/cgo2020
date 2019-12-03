@@ -83,7 +83,7 @@ Pen-Chung Yew, Antonia Zhai, Stephen McCamant (University of Minnesota)<br>
 **Low-cost Prediction-based Fault Protection Strategy**<br>
 Sunghyun Park, Shikai Li, Ze Zhang, Scott Mahlke (University of Michigan)<br>
 
-**Secure Automatic Bounds Check: Prevention Is Simpler Than Cure** <br>
+**Secure Automatic Bounds Checking: Prevention Is Simpler Than Cure** <br>
 John Ojogbo, Mithuna Thottethodi, Terani Vijaykumar (Purdue University)<br>
 
 **ATMem: Adaptive Data Placement in Graph Applications on Heterogeneous Memories** <br>
