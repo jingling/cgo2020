@@ -7,4 +7,4 @@ CGO 2020 will be held at [the San Diego Mission Bay Resort](https://www.missionb
 
 Click [here](https://gc.synxis.com/rez.aspx?Hotel=10372&Chain=11910&arrive=2/23/2020&depart=2/26/2020&adult=1&child=0&group=ACM220) to make an early hotel reservation.
 
-![hotel](img/hotel.png)
+<div style="text-align:center"><img src="img/hotel.png" /></div>
