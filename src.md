@@ -19,6 +19,10 @@ See [this page]().
 # Selection Committee (TBD)
 -	Aaron Smith (Microsoft/Univ. of Edinburgh)
 -	Changwan Hong (MIT)
+- Bin Ren (College of William and Mary)
+- Jagadish Kotra (AMD Research)
+- Yongjun Park (Hanyang University, Korea)
+- Simone Campanoni (Northwestern University)
 
 # Submission Information
 **Submission must be about unpublished work that is not under review anywhere.** Extended abstracts of up to 500 words should be submitted by email to **chjung@purdue.edu** on or before December 15, 2019. All submissions will be reviewed by a selection committee. Notifications will be sent out by January 2, 2020.
