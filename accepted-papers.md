@@ -27,7 +27,7 @@ Christopher Batten (Cornell University)
 **Efficient Nursery Sizing for Managed Languages on Multi-core Processors with Shared Caches**<br> 
 Mohamed Ismail, Edward Suh (Cornell University)<br> 
 
-**PriorityGraph: A Unified Programming Model for Optimizing Ordered Graph Algorithms**<br/> 
+**Optimizing Ordered Graph Algorithms with GraphIt**<br/> 
 Yunming Zhang, Ajay Brahmakshatriya, Xinyi Chen (MIT)<br>
 Laxman Dhulipala (Carnegie Mellon University)<br> 
 Shoaib Kamil (Adobe Research)<br> 
