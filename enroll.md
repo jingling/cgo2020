@@ -3,7 +3,7 @@ layout: content
 title: Registration
 ---
 # Registration 
-Click here to register for CGO’20. (TBD)
+[Click here](http://www.cvent.com/d/lhq423) to register for CGO’20. 
 
 [Click here](https://cgo-conference.github.io/cgo2020/venue/) to make an early hotel reservation.
 
