@@ -14,3 +14,184 @@ title: Program
 | Sunday         | AM              | [C4ML](https://c4ml.org/)    | LLVM Performance               |
 |                | PM              | [C4ML](https://c4ml.org/)    | LLVM Performance               |
 {:.table-striped}
+
+
+## Main Conference Day One: Monday 24th
+<table> <tbody> 
+	<tr><td>08:15 - 08:30</td><td>Chairs' Welcome</td></tr>
+	<tr><td>08:30 - 09:30</td><td>HPCA Keynote (Garden Pavilion)
+	</td></tr>
+	<tr><td>09:35 - 10:25</td><td>Session 1: Dynamic Languages. Session Chair: TBA. Room: Sorrento & San Marino</td></tr> 
+	<tr>
+		<td></td>
+		<td> <ul> 
+			<li><b> Efficient Nursery Sizing for Managed Languages on Multi-core Processors with Shared Caches </b><br> 
+				<i> Mohamed Ismail, Edward Suh (Cornell University) </i>
+			</li> 
+			<li><b> Type Freezing: Exploiting Attribute Type Monomorphism in Tracing JIT Compilers </b><br> 
+				<i> Lin Cheng, Berkin Ilbeyi (Cornell University) </i> <br>
+				<i> Carl Friedrich Bolz-Tereick (Heinrich-Heine-Universität Düsseldorf)</i> <br>
+				<i> Christopher Batten (Cornell University) </i> <br>
+	</li> </ul> </td></tr> 
+	<tr><td>10:25 - 10:55</td><td>Coffee Break</td></tr> 
+	<tr><td>10:55 - 12:35</td><td>Session 2: Safety and Reliability. Session Chair: TBA. Room: Sorrento & San Marino</td></tr> 
+	<tr>
+		<td></td>
+		<td> <ul> 
+			<li><b> Low-cost Prediction-based Fault Protection Strategy </b><br> 
+				<i> Sunghyun Park, Shikai Li, Ze Zhang, Scott Mahlke (University of Michigan) </i></li> 
+			<li><b> Secure Automatic Bounds Checking: Prevention Is Simpler Than Cure </b><br> 
+				<i> John Ojogbo, Mithuna Thottethodi, Terani Vijaykumar (Purdue University) </i></li> 
+			<li><b> Aloe: Verifying Reliability of Approximate Programs in the Presence of Recovery Mechanisms </b><br> 
+				<i> Keyur Joshi, Vimuth Fernando, Sasa Misailovic (University of Illinois at Urbana-Champaign) </i></li> 
+			<li><b> Interactive Debugging of Concurrent Programs under Relaxed Memory Models </b><br> 
+				<i> Haiyang Sun (Università della Svizzera italiAakanksha Verma, Pankaj Kumar Kalita, Awanish Panday, Subhajit Roy (IIT Kanpur) </i></li> 
+	</ul> </td></tr> 
+	<tr><td>12:35 - 14:00</td><td>Lunch</td></tr> 
+	<tr><td>14:00 - 15:30</td><td>Session 3: Best Paper Finalists. Session Chair: Jingling Xue. Room: Sorrento & San Marino</td></tr> 
+	<tr><td></td>
+		<td> <ul>
+			<li> <b> Testing Static Analyses for Precision and Soundness </b> <br>
+				 <i> Jubi Taneja, Zhengyang Liu, John Regehr (University of Utah)</i>
+			</li>
+			<li>
+				<b> HALO: Post-Link Heap-Layout Optimization </b> <br>
+				<i> Joe Savage, Timothy Jones (University of Cambridge) </i>
+			</li>
+			<li>
+				<b>Efficient and Scalable Cross-ISA Virtualization of Hardware Transactional Memory</b> <br>
+				<i>Wenwen Wang (University of Georgia)</i> <br>
+				<i>Pen-Chung Yew, Antonia Zhai, Stephen McCamant (University of Minnesota)</i> <br>
+			</li>
+	</ul> </td></tr> 
+	<tr><td>15:40 - 16:10</td><td>	Coffee Break</td></tr>
+	<tr><td>16:10 - 18:00</td><td>	SRC Presentations. Room: Sorrento & San Marino.</td></tr>
+	<tr><td>17:00 - 18:00</td><td>	CGO Artifact Evaluation session. Room: Sorrento & San Marino.</td></tr>
+	<tr><td>18:00 - 19:00</td><td>	CGO Business Meeting. Room: Sorrento & San Marino.</td></tr>
+</tbody></table>
+
+## Main Conference Day Two: Tuesday 25th
+
+<table> <tbody> 
+	<tr><td>08:30 - 09:30</td><td>PPOPP Keynote (Garden Pavilion)</td></tr>
+	<tr><td></td><td>
+	</td></tr>
+	<tr><td>09:35 - 10:25</td><td>Session 4: GPUs. Session Chair: TBA. Room: Sorrento & San Marino</td></tr> 
+	<tr>
+		<td></td>
+		<td> <ul> 
+			<li><b> Speculative Reconvergence for Improved SIMT Efficiency </b><br> 
+				<i> Sana Damani (Georgia Tech) </i> <br>
+				<i> Daniel Johnson, Mark Stephenson, Stephen W. Keckler (NVIDIA) </i> <br>
+				<i> Eddie Yan (University of Washington)</i> <br>
+				<i> Michael McKeown (Esperanto Technologies)</i> <br>
+				<i> Olivier Giroux (NVIDIA)</i> <br>
+			</li> 
+			<li><b> Optimizing Occupancy and ILP on the GPU Using a Combinatorial Approach </b><br> 
+				<i> Ghassan Shobaki (California State University, Sacramento) </i> <br>
+				<i> Austin Kerbow, Stanislav Mekhanoshin (Advanced Micro Devices) </i> <br>
+	</li> </ul> </td></tr> 
+	<tr><td>10:25 - 10:55</td><td>Coffee Break</td></tr> 
+	<tr><td>10:55 - 12:35</td><td>Session 5: Compilation for Specialized Domains. Session Chair: TBA. Room: Sorrento & San Marino</td></tr> 
+	<tr>
+		<td></td>
+		<td> <ul> 
+			<li><b> Multi-Layer Optimizations for End-to-End Data Analytics </b><br> 
+				<i> Amir Shaikhha, Maximilian Schleich, Alexandru Ghita, Dan Olteanu (University of Oxford) </i></li> 
+			<li><b> Optimizing Ordered Graph Algorithms with Graphlt</b><br> 
+				<i> Yunming Zhang, Ajay Brahmakshatriya, Xinyi Chen (MIT) </i> <br>
+				<i> Laxman Dhulipala (Carnegie Mellon University) </i> <br>
+				<i> Shoaib Kamil (Adobe Research) </i> <br>
+				<i> Saman Amarasinghe, Julian Shun (Massachusetts Institute of Technology) </i> <br>
+			</li> 
+			<li><b> A Performance-Optimizing Compiler for Cyber-Physical Digital Microfluidic Biochips </b><br> 
+				<i> Tyson Loveless, Jason Ott, Philip Brisk (University of California, Riverside) </i></li> 
+			<li><b> CogniCrypt_GEN - Generating Code for the Secure Usage of Crypto APIs </b><br> 
+				<i> Stefan Krüger (Paderborn University) </i> <br>
+				<i> Karim Ali (University of Alberta)</i> <br>
+				<i> Eric Bodden (Heinz Nixdorf Institute at Paderborn University & Fraunhofer IEM) </i> <br>
+			</li> 
+	</ul> </td></tr> 
+	<tr><td>12:35 - 14:00</td><td>Lunch</td></tr> 
+	<tr><td>14:00 - 15:15</td><td>Session 6: Tool and Practical Experience Papers. Session Chair: TBA. Room: Sorrento & San Marino</td></tr> 
+	<tr><td></td>
+		<td> <ul>
+			<li> <b> AN5D: Automated Stencil Framework for High-Degree Temporal Blocking on GPUs </b> <br>
+				 <i> Kazuaki Matsumura (Barcelona Supercomputing Center)</i> <br>
+				 <i> Hamid Reza Zohouri (Tokyo Institute of Technology, Japan)</i> <br>
+				 <i> Mohamed Wahib (National Institute of Advanced Industrial Science and Technology, Japan)</i> <br>
+				 <i> Toshio Endo (Tokyo Institute of Technology, Japan)</i> <br>
+				 <i> Satoshi Matsuoka (Riken-Center for Computational Science, Japan)</i> <br>
+			</li>
+			<li>
+				<b> The Design and Implementation of the Wolfram Language Compiler </b> <br>
+				<i> Abdul Dakkak (UIUC) </i> <br>
+				<i> Tom Wickham-Jones (Wolfram Research)</i> <br>
+				<i> Wen-mei Hwu (UIUC)</i> <br>
+			</li>
+			<li>
+				<b>SIMD Support in .NET</b> <br>
+				<i>Carol Eidt, Tanner Gooding (Microsoft)</i> <br>
+			</li>
+	</ul> </td></tr>
+	<tr> <td> 15:15 - 15:45</td> <td> Coffee Break </td> </tr>
+	<tr> <td> 15:45 - 16:35</td> <td> Session 7: Code Optimization. Session Chair: TBA. Room: Sorrento & San Marino </td> </tr>
+	<tr><td></td>
+		<td> <ul>
+			<li> <b> NeuroVectorizer: End-to-End Vectorization with Deep Reinforcement Learning </b> <br>
+				 <i> Ameer Haj-Ali (UC Berkeley); Nesreen K. Ahmed, Ted Willke (Intel Labs)</i> <br>
+				 <i> Sophia Shao, Krste Asanovic, Ion Stoica (UC Berkeley)</i> <br>
+			</li>
+			<li>
+				<b> Introducing the Pseudorandom Value Generator Selection in the Compilation Toolchain </b> <br>
+				<i> Michael Leonard, Simone Campanoni (Northwestern University) </i> <br>
+			</li>
+	</ul> </td></tr>
+	<tr><td>17:30 - 21:00</td><td>	Excursion</td></tr>
+</tbody></table>
+
+## Main Conference Day Three: Wed 26th
+
+<table> <tbody> 
+	<tr><td>08:30 - 09:30</td><td>CGO Keynote (Garden Pavilion)</td></tr>
+	<tr><td></td><td>
+	</td></tr>
+	<tr><td>09:35 - 10:50</td><td>Session 8: Heterogeneity and Parallelism. Session Chair: TBA. Room: Sorrento & San Marino</td></tr> 
+	<tr>
+		<td></td>
+		<td> <ul> 
+			<li><b> COLAB: A Collaborative Multi-factor Scheduler for Asymmetric Multicore Processors </b><br> 
+				<i> Teng Yu (University of St Andrews) </i> <br>
+				<i> Pavlos Petoumenos (University of Edinburgh) </i> <br>
+				<i> Vladimir Janjic (University of St Andrews)</i> <br>
+				<i> Hugh Leather (University of Edinburgh)</i> <br>
+				<i> John Thomson (University of St Andrews)</i> <br>
+			</li> 
+			<li><b> PreScaler: An Efficient System-aware Precision Scaling Framework on Heterogeneous Systems </b><br> 
+				<i> Seokwon Kang, Kyunghwan Choi, Yongjun Park (Hanyang University) </i> <br>
+			</li>
+			<li><b> ATMem: Adaptive Data Placement in Graph Applications on Heterogeneous Memories </b><br> 
+				<i> Yu Chen (college of William & Mary) </i> <br>
+				<i> Ivy Peng (Lawrence Livermore National Laboratory)</i> <br>
+				<i> Zhen Peng, Xu Liu, Bin Ren (College of William & Mary)</i> <br>
+			</li> 
+	</ul> </td></tr> 
+	<tr><td>10:50 - 11:20</td><td>Catering - Coffee Break</td></tr> 
+	<tr><td>11:20 - 12:10</td><td>Session 9: Code Generation and Transformation. Session Chair: TBA. Room: Sorrento & San Marino</td></tr> 
+	<tr>
+		<td></td>
+		<td> <ul> 
+			<li><b> Automatic Generation of High-Performance Quantized Machine Learning Kernels </b><br> 
+				<i> Meghan Cowan, Thierry Moreau, Tianqi Chen (University of Washington) </i> <br>
+				<i> James Bornholt (University of Texas at Austin) </i> <br>
+				<i> Luis Ceze (University of Washington) </i> <br>
+			</li> 
+			<li><b> Deriving Parametric Multi-way Recursive Divide-&-Conquer Dynamic Programming Algorithms using Polyhedral Compilers </b><br> 
+				<i> Mohammad Mahdi Javanmard, Zafar Ahmad (Stony Brook University) </i> <br>
+				<i> Martin Kong (University of Oklahoma) </i> <br>
+				<i> Louis-Noël Pouchet (Colorado State University) </i> <br>
+				<i> Rezaul Chowdhury, Robert Harrison (Stony Brook University) </i> <br>
+			</li> 
+	</ul> </td></tr> 
+	<tr><td>12:10 - 12:30</td><td>Awards; Closing Remarks. Room: Sorrento & San Marino</td></tr> 
+</tbody></table>
