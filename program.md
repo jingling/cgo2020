@@ -76,7 +76,7 @@ title: Program
 	<tr><td>08:30 - 09:30</td><td>PPOPP Keynote (Garden Pavilion)</td></tr>
 	<tr><td></td><td>
 	</td></tr>
-	<tr><td>09:35 - 10:25</td><td>Session 4: GPUs. Session Chair: TBA. Room: Sorrento & San Marino</td></tr> 
+	<tr><td>09:35 - 10:25</td><td>Session 4: GPUs. Session Chair: J Nelson Amaral. Room: Sorrento & San Marino</td></tr> 
 	<tr>
 		<td></td>
 		<td> <ul> 
@@ -113,7 +113,7 @@ title: Program
 			</li> 
 	</ul> </td></tr> 
 	<tr><td>12:35 - 14:00</td><td>Lunch</td></tr> 
-	<tr><td>14:00 - 15:15</td><td>Session 6: Tool and Practical Experience Papers. Session Chair: TBA. Room: Sorrento & San Marino</td></tr> 
+	<tr><td>14:00 - 15:15</td><td>Session 6: Tool and Practical Experience Papers. Session Chair: Vijay Janapa Reddi. Room: Sorrento & San Marino</td></tr> 
 	<tr><td></td>
 		<td> <ul>
 			<li> <b> AN5D: Automated Stencil Framework for High-Degree Temporal Blocking on GPUs </b> <br>
