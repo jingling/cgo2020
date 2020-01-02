@@ -45,7 +45,7 @@ title: Program
 			<li><b> Aloe: Verifying Reliability of Approximate Programs in the Presence of Recovery Mechanisms </b><br> 
 				<i> Keyur Joshi, Vimuth Fernando, Sasa Misailovic (University of Illinois at Urbana-Champaign) </i></li> 
 			<li><b> Interactive Debugging of Concurrent Programs under Relaxed Memory Models </b><br> 
-				<i> Haiyang Sun (Università della Svizzera italiAakanksha Verma, Pankaj Kumar Kalita, Awanish Panday, Subhajit Roy (IIT Kanpur) </i></li> 
+				<i> Aakanksha Verma, Pankaj Kumar Kalita, Awanish Panday, Subhajit Roy (IIT Kanpur) </i></li> 
 	</ul> </td></tr> 
 	<tr><td>12:35 - 14:00</td><td>Lunch</td></tr> 
 	<tr><td>14:00 - 15:30</td><td>Session 3: Best Paper Finalists. Session Chair: Jingling Xue. Room: Sorrento & San Marino</td></tr> 
