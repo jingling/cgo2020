@@ -34,7 +34,7 @@ Shoaib Kamil (Adobe Research)<br>
 Saman Amarasinghe, Julian Shun (Massachusetts Institute of Technology)
 
 **Interactive Debugging of Concurrent Programs under Relaxed Memory Models**<br> 
-Aakanksha Verma, Pankaj Kumar Kalita, Awanish Panday, Subhajit Roy (IIT Kanpur)
+Aakanksha Verma, Pankaj Kumar Kalita, Awanish Pandey, Subhajit Roy (IIT Kanpur)
 
 **Speculative Reconvergence for Improved SIMT Efficiency**<br>
 Sana Damani (Georgia Tech)<br> 
