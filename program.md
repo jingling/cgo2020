@@ -73,7 +73,7 @@ title: Program
 ## Main Conference Day Two: Tuesday 25th
 
 <table> <tbody> 
-	<tr><td>08:30 - 09:30</td><td>PPOPP Keynote (Garden Pavilion)</td></tr>
+	<tr><td>08:30 - 09:30</td><td>PPoPP Keynote (Garden Pavilion)</td></tr>
 	<tr><td></td><td>
 	</td></tr>
 	<tr><td>09:35 - 10:25</td><td>Session 4: GPUs. Session Chair: J Nelson Amaral (University of Alberta). Room: Sorrento & San Marino</td></tr> 
