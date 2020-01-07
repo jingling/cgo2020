@@ -179,7 +179,7 @@ University of Glasgow). Room: Sorrento & San Marino</td></tr>
 			</li> 
 	</ul> </td></tr> 
 	<tr><td>10:50 - 11:20</td><td>Catering - Coffee Break</td></tr> 
-	<tr><td>11:20 - 12:10</td><td>Session 9: Code Generation and Transformation. Session Chair: TBA. Room: Sorrento & San Marino</td></tr> 
+	<tr><td>11:20 - 12:10</td><td>Session 9: Code Generation and Transformation. Session Chair: Fabrice Rastello (Inria). Room: Sorrento & San Marino</td></tr> 
 	<tr>
 		<td></td>
 		<td> <ul> 
