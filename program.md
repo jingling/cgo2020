@@ -21,7 +21,7 @@ title: Program
 	<tr><td>08:15 - 08:30</td><td>Chairs' Welcome</td></tr>
 	<tr><td>08:30 - 09:30</td><td>HPCA Keynote (Garden Pavilion)
 	</td></tr>
-	<tr><td>09:35 - 10:25</td><td>Session 1: Dynamic Languages. Session Chair: TBA. Room: Sorrento & San Marino</td></tr> 
+	<tr><td>09:35 - 10:25</td><td>Session 1: Dynamic Languages. Session Chair: Simone Campanoni (Northwestern University). Room: Sorrento & San Marino</td></tr> 
 	<tr>
 		<td></td>
 		<td> <ul> 
@@ -92,7 +92,7 @@ title: Program
 				<i> Austin Kerbow, Stanislav Mekhanoshin (Advanced Micro Devices) </i> <br>
 	</li> </ul> </td></tr> 
 	<tr><td>10:25 - 10:55</td><td>Coffee Break</td></tr> 
-	<tr><td>10:55 - 12:35</td><td>Session 5: Compilation for Specialized Domains. Session Chair: TBA. Room: Sorrento & San Marino</td></tr> 
+	<tr><td>10:55 - 12:35</td><td>Session 5: Compilation for Specialized Domains. Session Chair: Peng Wu (Futurewei Technlogies). Room: Sorrento & San Marino</td></tr> 
 	<tr>
 		<td></td>
 		<td> <ul> 
@@ -157,7 +157,8 @@ Harvard University). Room: Sorrento & San Marino</td></tr>
 	<tr><td>08:30 - 09:30</td><td>CGO Keynote (Garden Pavilion)</td></tr>
 	<tr><td></td><td>
 	</td></tr>
-	<tr><td>09:35 - 10:50</td><td>Session 8: Heterogeneity and Parallelism. Session Chair: TBA. Room: Sorrento & San Marino</td></tr> 
+	<tr><td>09:35 - 10:50</td><td>Session 8: Heterogeneity and Parallelism. Session Chair: Michel Steuwer (	
+University of Glasgow). Room: Sorrento & San Marino</td></tr> 
 	<tr>
 		<td></td>
 		<td> <ul> 
