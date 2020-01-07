@@ -16,12 +16,16 @@
   done: yes
 - date: November 15, 2019
   text: Artifact Evaluation Submission
+  done: yes
 - date: December 13, 2019
   text: Artifact Evaluation Notification
+  done: yes
 - date: December 15, 2019
   text: SRC Submission
+  done: yes
 - date: January 2, 2020
   text: SRC Notification
+  done: yes
 # - date: Dec 15, 2018
 #   text: SRC Submission
 # - date: Jan 2, 2019
