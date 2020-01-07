@@ -1,12 +1,12 @@
 - date: Nov 20, 2019
   text: List of [accepted papers](https://cgo-conference.github.io/cgo2020/accepted-papers/) announced!
-  done: no
+  done: yes
 - date: Nov 1, 2019
   text: Call for SRC (Student Research Competition) out
-  done: no
+  done: yes
 - date: Jul 24, 2019
   text: Call for workshops/tutorials out
-  done: no
+  done: yes
 - date: Jun 2, 2019
   text: Website is live and [CFP](https://cgo-conference.github.io/cgo2020/call/) is out
   done: yes
