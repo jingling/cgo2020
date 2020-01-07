@@ -92,7 +92,7 @@ title: Program
 				<i> Austin Kerbow, Stanislav Mekhanoshin (Advanced Micro Devices) </i> <br>
 	</li> </ul> </td></tr> 
 	<tr><td>10:25 - 10:55</td><td>Coffee Break</td></tr> 
-	<tr><td>10:55 - 12:35</td><td>Session 5: Compilation for Specialized Domains. Session Chair: Peng Wu (Futurewei Technlogies). Room: Sorrento & San Marino</td></tr> 
+	<tr><td>10:55 - 12:35</td><td>Session 5: Compilation for Specialized Domains. Session Chair: Peng Wu (Futurewei Technologies). Room: Sorrento & San Marino</td></tr> 
 	<tr>
 		<td></td>
 		<td> <ul> 
