@@ -34,7 +34,7 @@ title: Program
 				<i> Christopher Batten (Cornell University) </i> <br>
 	</li> </ul> </td></tr> 
 	<tr><td>10:25 - 10:55</td><td>Coffee Break</td></tr> 
-	<tr><td>10:55 - 12:35</td><td>Session 2: Safety and Reliability. Session Chair: TBA. Room: Sorrento & San Marino</td></tr> 
+	<tr><td>10:55 - 12:35</td><td>Session 2: Safety and Reliability. Session Chair: Changhee Jung (Purdue University). Room: Sorrento & San Marino</td></tr> 
 	<tr>
 		<td></td>
 		<td> <ul> 
