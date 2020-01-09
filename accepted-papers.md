@@ -100,7 +100,7 @@ Keyur Joshi, Vimuth Fernando, Sasa Misailovic (University of Illinois at Urbana-
 **A Performance-Optimizing Compiler for Cyber-Physical Digital Microfluidic Biochips** <br>
 Tyson Loveless, Jason Ott, Philip Brisk (University of California, Riverside)<br>
 
-**SIMD Support in .NET** <br>
+**SIMD Support in .NET: Abstract and Concrete Vector Types and Operations** <br>
 Carol Eidt, Tanner Gooding (Microsoft)<br>
 
 **Testing Static Analyses for Precision and Soundness**<br>
