@@ -131,7 +131,7 @@ Harvard University). Room: Sorrento & San Marino</td></tr>
 				<i> Wen-mei Hwu (UIUC)</i> <br>
 			</li>
 			<li>
-				<b>SIMD Support in .NET</b> <br>
+				<b>SIMD Support in .NET: Abstract and Concrete Vector Types and Operations</b> <br>
 				<i>Carol Eidt, Tanner Gooding (Microsoft)</i> <br>
 			</li>
 	</ul> </td></tr>
