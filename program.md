@@ -113,8 +113,7 @@ title: Program
 			</li> 
 	</ul> </td></tr> 
 	<tr><td>12:35 - 14:00</td><td>Lunch</td></tr> 
-	<tr><td>14:00 - 15:15</td><td>Session 6: Tool and Practical Experience Papers. Session Chair: Vijay Janapa Reddi (	
-Harvard University). Room: Sorrento & San Marino</td></tr> 
+	<tr><td>14:00 - 15:15</td><td>Session 6: Tool and Practical Experience Papers. Session Chair: Vijay Janapa Reddi (Harvard University). Room: Sorrento & San Marino</td></tr> 
 	<tr><td></td>
 		<td> <ul>
 			<li> <b> AN5D: Automated Stencil Framework for High-Degree Temporal Blocking on GPUs </b> <br>
