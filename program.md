@@ -157,8 +157,7 @@ Harvard University). Room: Sorrento & San Marino</td></tr>
 	<tr><td>08:30 - 09:30</td><td>CGO Keynote (Garden Pavilion)</td></tr>
 	<tr><td></td><td>
 	</td></tr>
-	<tr><td>09:35 - 10:50</td><td>Session 8: Heterogeneity and Parallelism. Session Chair: Michel Steuwer (	
-University of Glasgow). Room: Sorrento & San Marino</td></tr> 
+	<tr><td>09:35 - 10:50</td><td>Session 8: Heterogeneity and Parallelism. Session Chair: Michel Steuwer (University of Glasgow). Room: Sorrento & San Marino</td></tr> 
 	<tr>
 		<td></td>
 		<td> <ul> 
