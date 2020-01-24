@@ -51,6 +51,20 @@ As in previous years, CGO will host a Student Research Competition (SRC) session
 -	Optimizations for heterogeneous or specialized targets, GPUs, SoCs, CGRA
 -	Compiler-support for vectorization, thread extraction, task scheduling, speculation, transaction, memory management, data distribution and synchronization
 
+# Accepted SRC Submissions
+- Expressiveness and Performance of Code Generation via Multi-Dimensional Homomorphisms, Richard Schulze (University of Muenster, Germany) 
+- RISC-V Vector Extension Support in LLVM, Yin Zhang (University of Chinese Academy of Sciences)
+- md_poly: A Performance-Portable Polyhedral Compiler Based on Multi-Dimensional Homomorphisms, Ari Rasch (University of Muenster, Germany)
+- Protocol Verification Language, Alperen Keles (Middle East Technical University Ankara, Turkey)
+- Profile-Guided Dynamic Frequency Scaling for Energy-Efficient DNN Processing on Edge Devices, Thomas Norell (University of California, Berkeley)
+- Profile-Guided Instruction Prefetching to Reduce Front-End Stalls of Datacenter Applications, Nathan Brown (University of Michigan)
+- Generating Cyclo-Static Dataflow Graphs from Lift for FPGA programming, Hebe Hilhorst (Yale-NUS College Singapore)
+- Enabling Cross-ISA Virtualization of Trusted Execution Environments, Jin Wu (Harbin Institute of Technology, China)
+- Forecaster: A Continuous Learning Approach to Improve Hardware Efficiency, Phat Nguyen (Texas A&M University)
+- Compiler-assisted Semantic-aware Encryption, Bongjun Kim (POSTECH)
+- Thermal-aware DNN Execution for Mobile Platforms, Seonyeong Heo (POSTECH)
+- Automatic Parallelization of P4 Programs for Reconfigurable Switches, Seungbin Song (Yonsei University, Korea)
+
 # Sponsors
 ![acm](img/sponsors/acm.gif)
  
