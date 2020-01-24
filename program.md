@@ -135,7 +135,7 @@ title: Program
 			</li>
 	</ul> </td></tr>
 	<tr> <td> 15:15 - 15:45</td> <td> Coffee Break </td> </tr>
-	<tr> <td> 15:45 - 16:35</td> <td> Session 7: Code Optimization. Session Chair: Christophe Dubath (University of Edinburgh). Room: Sorrento & San Marino </td> </tr>
+	<tr> <td> 15:45 - 16:35</td> <td> Session 7: Code Optimization. Session Chair: Christophe Dubach (McGill University). Room: Sorrento & San Marino </td> </tr>
 	<tr><td></td>
 		<td> <ul>
 			<li> <b> NeuroVectorizer: End-to-End Vectorization with Deep Reinforcement Learning </b> <br>
