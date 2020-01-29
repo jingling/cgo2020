@@ -67,4 +67,5 @@ As in previous years, CGO will host a Student Research Competition (SRC) session
 
 # Sponsors
 ![acm](img/sponsors/acm.gif)
+![microsoft](img/sponsors/Microsoft.png)
  
