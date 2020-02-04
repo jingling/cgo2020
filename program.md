@@ -157,7 +157,7 @@ title: Program
 	<tr><td></td>
 		<td><ul>
 		<li><b>MLIR Compiler Infrastructure</b><br>
-		<i> Chris Lattner (Google) and Tatiana Shpeisman (Google)</i>
+		<i> Chris Lattner (SiFive) and Tatiana Shpeisman (Google)</i>
 		</li>
 		</ul>
 	</td></tr>
