@@ -79,7 +79,7 @@ title: Program
 		<td><a href="http://www.sigplan.org/Cares/">SIGPLAN CARES</a> intro<br>
                     Peng Wu (Futurewei Technologies)</td>
 	</tr>
-	<tr><td>08:30 - 09:30</td><td><a href="https://www.hpca-conf.org/2020/keynote/">Keynote: Scaling Parallel Programming Beyond Threads</a><br>
+	<tr><td>08:30 - 09:30</td><td><a href="">Keynote: Scaling Parallel Programming Beyond Threads</a><br>
 		Michael Garland (NVIDIA Research)
 		</td></tr>
 	<tr><td></td><td>
@@ -161,7 +161,7 @@ title: Program
 ## Main Conference Day Three: Wed 26th
 
 <table> <tbody> 
-	<tr><td>08:30 - 09:30</td><td><a href="https://www.hpca-conf.org/2020/keynote/">Keynote: MLIR Compiler Infrastructure</a><br>Chris Lattner (SiFive) and Tatiana Shpeisman (Google)</td></tr>
+	<tr><td>08:30 - 09:30</td><td><a href="https://cgo-conference.github.io/cgo2020/keynotes/">Keynote: MLIR Compiler Infrastructure</a><br>Chris Lattner (SiFive) and Tatiana Shpeisman (Google)</td></tr>
 	<tr><td></td>
 		<td><ul>
 		<li><b>MLIR Compiler Infrastructure</b><br>
