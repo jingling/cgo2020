@@ -19,7 +19,8 @@ title: Program
 ## Main Conference Day One: Monday 24th
 <table> <tbody> 
 	<tr><td>08:15 - 08:30</td><td>Chairs' Welcome</td></tr>
-	<tr><td>08:30 - 09:30</td><td>HPCA Keynote (Garden Pavilion)
+	<tr><td>08:30 - 09:30</td><td><a href="https://www.hpca-conf.org/2020/keynote/">Keynote: Interdisciplinary Research at a Time of Pervasive Changes</a><br>
+		Josep Torrellas (University of Illinois, Urbana-Champaign)
 	</td></tr>
 	<tr><td>09:35 - 10:25</td><td>Session 1: Dynamic Languages. Session Chair: Simone Campanoni (Northwestern University). Room: Sorrento & San Marino</td></tr> 
 	<tr>
