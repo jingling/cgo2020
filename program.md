@@ -74,6 +74,11 @@ title: Program
 ## Main Conference Day Two: Tuesday 25th
 
 <table> <tbody> 
+	<tr>
+		<td>08:15 - 08:30</td>
+		<td><a href="http://www.sigplan.org/Cares/">SIGPLAN CARES</a> intro<br>
+                    Peng Wu (Futurewei Technologies)</td>
+	</tr>
 	<tr><td>08:30 - 09:30</td><td><a href="https://www.hpca-conf.org/2020/keynote/">Keynote: Scaling Parallel Programming Beyond Threads</a><br>
 		Michael Garland (NVIDIA Research)
 		</td></tr>
