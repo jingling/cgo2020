@@ -74,7 +74,9 @@ title: Program
 ## Main Conference Day Two: Tuesday 25th
 
 <table> <tbody> 
-	<tr><td>08:30 - 09:30</td><td>PPoPP Keynote (Garden Pavilion)</td></tr>
+	<tr><td>08:30 - 09:30</td><td><a href="https://www.hpca-conf.org/2020/keynote/">Keynote: Scaling Parallel Programming Beyond Threads</a><br>
+		Michael Garland (NVIDIA Research)
+		</td></tr>
 	<tr><td></td><td>
 	</td></tr>
 	<tr><td>09:35 - 10:25</td><td>Session 4: GPUs. Session Chair: J Nelson Amaral (University of Alberta). Room: Sorrento & San Marino</td></tr> 
@@ -154,7 +156,7 @@ title: Program
 ## Main Conference Day Three: Wed 26th
 
 <table> <tbody> 
-	<tr><td>08:30 - 09:30</td><td>CGO Keynote (Garden Pavilion)</td></tr>
+	<tr><td>08:30 - 09:30</td><td><a href="https://www.hpca-conf.org/2020/keynote/">Keynote: MLIR Compiler Infrastructure</a><br>Chris Lattner (SiFive) and Tatiana Shpeisman (Google)</td></tr>
 	<tr><td></td>
 		<td><ul>
 		<li><b>MLIR Compiler Infrastructure</b><br>
