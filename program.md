@@ -8,10 +8,10 @@ title: Program
 
 | Conference     |                 | CGO     | CGO                            |
 | -------------  | :-------------: | :-----: | :----------------------------: |
-| Saturday       | AM              | [GRAAL](https://graalworkshop.github.io/2020/)   | [IMOP (half-day)](http://www.cse.iitm.ac.in/~amannoug/imop/tutorials.php)                |
+| Saturday 22nd      | AM              | [GRAAL](https://graalworkshop.github.io/2020/)   | [IMOP (half-day)](http://www.cse.iitm.ac.in/~amannoug/imop/tutorials.php)                |
 |                | PM              | [GRAAL](https://graalworkshop.github.io/2020/)   | Women in Compilers (half-day)  |
 | **Conference** |                 | **CGO**     | **CGO**                |
-| Sunday         | 8AM - 12AM             | [C4ML](https://c4ml.org/)    | [LLVM Performance](http://llvm.org/devmtg/2020-02-22/)               |
+| Sunday 23rd         | 8AM - 12AM             | [C4ML](https://c4ml.org/)    | [LLVM Performance](http://llvm.org/devmtg/2020-02-22/)               |
 |                | 1PM - 5PM              | [C4ML](https://c4ml.org/)    | [LLVM Performance](http://llvm.org/devmtg/2020-02-22/)               |
 {:.table-striped}
 
