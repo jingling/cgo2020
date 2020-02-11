@@ -13,7 +13,7 @@ title: Program
 | **Conference** |                 | **CGO**     | **CGO**                |
 | Sunday 23rd         | 8AM - 12AM             | [C4ML](https://c4ml.org/)    | [LLVM Performance](http://llvm.org/devmtg/2020-02-22/)               |
 |                | 1PM - 5PM              | [C4ML](https://c4ml.org/)    | [LLVM Performance](http://llvm.org/devmtg/2020-02-22/)               |
-|                     | 6PM - 8PM         | Joint Welcome Reception and SRC Poster session
+|                     | 6PM - 8PM         | Joint Welcome Reception and SRC Poster session (Fresco's)
 {:.table-striped}
 
 
