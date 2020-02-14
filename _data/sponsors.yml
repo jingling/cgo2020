@@ -34,3 +34,6 @@
 - name: NSF
   url: https://www.nsf.gov/
   logo-url: img/sponsors/nsf.jpg
+- name: uber
+  url: http://www.uber.com/
+  logo-url: img/sponsors/uber.png
