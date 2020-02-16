@@ -22,8 +22,8 @@ title: Program
 	<tr><td>08:10 - 08:20</td><td>Chairs' Welcome</td></tr>
 	<tr>
 		<td>08:20 - 08:30</td>
-		<td><a href="http://www.sigplan.org/Cares/">SIGPLAN CARES</a> intro<br>
-                    Peng Wu (Futurewei Technologies)</td>
+		<td><a href="http://www.sigplan.org/Cares/">SIGPLAN CARES</a> intro and <a href="https://www.sigarch.org/benefit/cares">SIGARCH/SIGMICRO CARES</a> intro<br>
+                    Peng Wu (Futurewei Technologies) and Timothy Pinkston (University of Southern California)</td>
 	</tr>
 	<tr><td>08:30 - 09:30</td><td><a href="https://www.hpca-conf.org/2020/keynote/">Keynote: Interdisciplinary Research at a Time of Pervasive Changes</a><br>
 		Josep Torrellas (University of Illinois, Urbana-Champaign)
