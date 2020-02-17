@@ -9,10 +9,10 @@ title: Program
 | Conference     |                 | CGO     | CGO                            |
 | -------------  | :-------------: | :-----: | :----------------------------: |
 | Saturday 22nd      | AM              | [GRAAL](https://graalworkshop.github.io/2020/)   | [IMOP (half-day)](http://www.cse.iitm.ac.in/~amannoug/imop/tutorials.php)                |
-|                | PM              | [GRAAL](https://graalworkshop.github.io/2020/)   | Women in Compilers (half-day)  |
+|                | PM              | [GRAAL](https://graalworkshop.github.io/2020/)   | [Women in Compilers](http://llvm.org/devmtg/2020-02-22/) (half-day)  |
 | **Conference** |                 | **CGO**     | **CGO**                |
-| Sunday 23rd         | 8AM - 12AM             | [C4ML](https://c4ml.org/)    | [LLVM Performance](http://llvm.org/devmtg/2020-02-22/)               |
-|                | 1PM - 5PM              | [C4ML](https://c4ml.org/)    | [LLVM Performance](http://llvm.org/devmtg/2020-02-22/)               |
+| Sunday 23rd         | 8AM - 12AM             | [C4ML](https://c4ml.org/)    | [LLVM Performance](http://llvm.org/devmtg/2020-02-23/)               |
+|                | 1PM - 5PM              | [C4ML](https://c4ml.org/)    | [LLVM Performance](http://llvm.org/devmtg/2020-02-23/)               |
 |                     | 6PM - 8PM         | Joint Welcome Reception and SRC Poster session (Fresco's)
 {:.table-striped}
 
